@@ -106,3 +106,12 @@ Condiciones para el impuesto:
 * Ingresos > 60,000€ → 30% de impuestos.
 * Si el estado civil es "Casado" → Se aplica una reducción del 2%.
 * Si tiene más de 2 hijos → Se aplica una reducción adicional del 3%.
+
+## Objetivos
+* Comparar y aplicar las estructuras de control condicionales if-else y switch-case en la resolución de problemas complejos, fomentando el pensamiento lógico y crítico en programación.
+* Comprender el funcionamiento de if-else y switch-case, identificando sus diferencias, ventajas y limitaciones.
+* Aplicar estructuras condicionales en problemas reales, manejando múltiples condiciones y escenarios.
+* Analizar la eficiencia y legibilidad del código según la estructura utilizada.
+* Fomentar el trabajo en equipo, promoviendo la división de tareas y la colaboración en el desarrollo del código.
+* Comparar soluciones y argumentar cuál es más adecuada, participando en un debate técnico sobre la mejor implementación.
+* Desarrollar habilidades de depuración y prueba, asegurando que el código funcione correctamente en distintos casos.
